@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image] https://miro.medium.com/max/1024/1*9Mvsi2_GTFKKRkDNncqAkg.jpeg
